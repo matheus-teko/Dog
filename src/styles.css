@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: blueviolet;
+}
+h1 {
+  color: black;
+}
+button {
+  color: rgb(0, 140, 255);
+}
